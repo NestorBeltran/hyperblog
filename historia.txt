@@ -1,2 +1,4 @@
 Este archivo es la prueba de mi primer proyecto del curso de Git
 mi nombre es Nestor Beltran
+
+estudie en el Tec de Saltillo
